@@ -1,12 +1,12 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Sushrutha Raj</h1>
 <h3 align="center">A Senior Data Scientist from India. I am currently pursuing a PhD in Data Science focussed on Biomedical Text Mining.</h3>
-<img align="left" alt="Coding" width="400" src="https://media.istockphoto.com/id/1325034866/vector/data-analysis-vector-illustration-with-young-woman-sitting-in-front-of-big-computer-monitor.jpg?s=612x612&w=0&k=20&c=n5-pe8pgPfPMcRpOL8bpy6mcx-LHrxLs2sYX1vJ9smM=")
+<img align="right" alt="Coding" width="400" src="https://www.businessprocessincubator.com/wp-content/uploads/2021/01/data-science-job-myths.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushrutharaj&label=Profile%20views&color=0e75b6&style=flat" alt="sushrutharaj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushrutharaj" alt="sushrutharaj" /></a> </p>
-
 
 - 🔭 I’m currently working on **Natural language Processing**
 
